@@ -9,7 +9,7 @@
 API desenvolvida em .Net Core 3 para operações: Create, Read, Update e Delete persistindo em banco NoSql MongoDB.
 
 - Utilizado Padrão Repository e Service para separação das responsabilidades.
-- Foram criados 2 Projetos Class Libraries: Uma contendo projeto de Data responsavél pela conexão e manipulação do Repositórios e, 
+- Foram criados 2 Projetos Class Libraries: Um contendo projeto de Data responsavél pela conexão e manipulação do Repositórios e, 
 outro projeto de Business responsavél pelos Models, Notifications, Services e Interfaces.
 
 - Utilizei o [AutoMapper](https://automapper.org) para auxílio de mapeamento entre as Models e as ViewModels. 
